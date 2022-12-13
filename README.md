@@ -37,7 +37,7 @@
 
 
 ✨ Quick Facts
-- 🤔 I’m currently learning Typescript, React-Native and DevOps
+- 🤔 I’m currently learning Golang and DevOps
 - 📧 You can reach out to me at <a href="mailto:ss497254@gmail.com">🔗</a>
 - 💬 Ask me about anything related to web development. I am always available to help and learn together.
 - ⚡ Goals: Contribute more to Open Source projects and Learn a lot.
