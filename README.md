@@ -14,7 +14,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/ss497254/ss497254.svg?cache=remove)
 
 ## About Me
-- Hey there! :smile: I'm a Saurabh Singh. A `Web Developer` 🚀 from India. 
+- Hey there! :smile: I'm a Saurabh Singh. A `Full Stack Web Developer` 🚀 from India. 
 - I'm currently an undergraduate pursuing my bachelor's in `computer science and engineering` from `IIT(ISM) Dhanbad`.
 <!-- - I am a passionate programmer competeting across different platforms.  -->
 - I have keen interest in `Full Stack Development`. 
