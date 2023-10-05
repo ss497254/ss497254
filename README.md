@@ -24,18 +24,20 @@
 
 ## Technologies I'm Learning :books:
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=typescript)
 ![C++](https://img.shields.io/badge/-C++-%23CC6699?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-orange?style=flat-square&logo=Node.js&logoColor=00d632)
+![Go](https://img.shields.io/badge/-Go-0891b2?style=flat-square&logo=go&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-16a34a?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-ReactNative-23282C34?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff)
 ![Nextjs](https://img.shields.io/badge/-Next.Js-black?style=flat-square&logo=next.js&logoColor=ffffff)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-f97316?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-green?style=flat-square&logo=nginx)
+![Nginx](https://img.shields.io/badge/-Nginx-16a34a?style=flat-square&logo=nginx)
 
 
 ✨ Quick Facts
