@@ -16,7 +16,6 @@
 ## About Me
 - Hey there! :smile: I'm a Saurabh Singh. A `Full Stack Developer` 🚀 from India. 
 - I completed my Bachelor's in `Computer Science and Engineering` from `IIT (ISM) Dhanbad`.
-<!-- - I am a passionate programmer competeting across different platforms.  -->
 - I have keen interest in `App Development, DevOps and Cloud computing`. 
 - I love exploring evolving technologies and constantly strive to improve my technical competency.
 - I am a very curious person and always try to find opportunities. 
