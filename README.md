@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Building and maintaining large-scale production systems  
+- 💼 Building and maintaining production-grade systems
 - 🚀 Experience across frontend, backend, and mobile platforms  
 - ⚙️ Focused on performance, scalability, and clean architecture  
 - 🧠 Deep interest in systems engineering, Linux internals, and hardware-oriented software  
