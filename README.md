@@ -38,7 +38,7 @@ Node.js • Express • C# APIs • REST • GraphQL
 Authentication • API Design • Caching
 
 ### ☁️ Cloud & DevOps
-Azure • Docker • Nginx • CI/CD • Linux  
+Azure • Docker • CI/CD • Linux  
 Telemetry • Monitoring • Production Deployments
 
 ### 🧠 Engineering Focus
